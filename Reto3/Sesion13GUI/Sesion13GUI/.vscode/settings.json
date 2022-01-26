@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.base.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.controls.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.fxml.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.graphics.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.media.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.swing.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx.web.jar",
+        "d:\\Storage\\TIC\\Java\\JavaFX\\javafx-sdk-11.0.2\\lib\\javafx-swt.jar",
+        "d:\\Storage\\Libraries\\Downloads\\sqlite-jdbc-3.34.0.jar"
+    ]
+}

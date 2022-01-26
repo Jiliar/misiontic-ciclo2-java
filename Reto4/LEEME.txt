@@ -1,0 +1,7 @@
+Para la ejecución de este programa
+debe tener en cuenta:
+
+- Las librerias jars de Java FX debidamente importadas en el proyecto.
+- Revise archivo settings.json y modifique las rutas de las librerias importadas dependiendo a la ubicación de las mismas en su equipo local.
+- Modifique la ruta fisica de la base de datos en el archivo dao/Conexion.java
+- Tenga en cuenta la liberia de conexión de base de datos sqlite-jdbc-3.34.0.jar registrada en el archivo settings.json
